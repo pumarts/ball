@@ -63,3 +63,4 @@ top++;
 stack[top]=ans;
 getch ();
 }
+
